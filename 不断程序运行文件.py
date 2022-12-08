@@ -1,2 +1,5 @@
 from subprocess import Popen, PIPE
-Popen("python ???.py ???", shell=True, stdout=PIPE)
+
+
+def run(file: str, command: str = ""):
+  Popen(f"python {file} {command}" if command else f"python {file}", shell=True, stdout=PIPE)
