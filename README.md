@@ -1,5 +1,3 @@
-![粉丝数](https://shields.io/badge/粉丝数-3...-white?style=social&icon-github)
-
 祝鲲节快乐！（doge）
 
 -----------
